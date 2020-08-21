@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactjs-primera-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/reactjs-primera-app/static/js/main.1c9f70d2.chunk.js",
+    "main.js.map": "/reactjs-primera-app/static/js/main.1c9f70d2.chunk.js.map",
+    "runtime-main.js": "/reactjs-primera-app/static/js/runtime-main.bca2978d.js",
+    "runtime-main.js.map": "/reactjs-primera-app/static/js/runtime-main.bca2978d.js.map",
+    "static/js/2.30267683.chunk.js": "/reactjs-primera-app/static/js/2.30267683.chunk.js",
+    "static/js/2.30267683.chunk.js.map": "/reactjs-primera-app/static/js/2.30267683.chunk.js.map",
+    "index.html": "/reactjs-primera-app/index.html",
+    "precache-manifest.5f3b71432c57ac76d04567562c4f18eb.js": "/reactjs-primera-app/precache-manifest.5f3b71432c57ac76d04567562c4f18eb.js",
+    "service-worker.js": "/reactjs-primera-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/reactjs-primera-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.30267683.chunk.js.LICENSE.txt": "/reactjs-primera-app/static/js/2.30267683.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reactjs-primera-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bca2978d.js",
+    "static/js/2.30267683.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1c9f70d2.chunk.js"
+  ]
+}
